@@ -1,8 +1,10 @@
 {
   "Main": [
     {
-      "Live": true,
-      "Video": ""
+      "Live": false,
+      "Video": "",
+      "Title": "TELEIA",
+      "Description": "ME LENE VAGGELI"
     }
   ],
   "TV": [
