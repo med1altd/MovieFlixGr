@@ -135,10 +135,10 @@
   ],
   "Standard": [
     {
-      "TV": "MediaFire",
+      "TV": "https://med1altd.github.io/MovieFlixGr/greekVersionTV.json",
       "Movies": "",
-      "Series": "media",
-      "Kids": "https://download"
+      "Series": "",
+      "Kids": ""
     }
   ]
 }
