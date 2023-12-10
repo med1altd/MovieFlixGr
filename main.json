@@ -132,5 +132,13 @@
       "Start": 8,
       "End": 0
     }
+  ],
+  "Standard": [
+    {
+      "TV": "MediaFire",
+      "Movies": "",
+      "Series": "media",
+      "Kids": "https://download"
+    }
   ]
 }
