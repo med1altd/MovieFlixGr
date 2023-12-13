@@ -164,9 +164,9 @@
   "Standard": [
     {
       "TV": "https://med1altd.github.io/MovieFlixGr/basicVersionTV.json",
-      "Movies": "",
-      "Series": "",
-      "Kids": ""
+      "Movies": "https://med1altd.github.io/MovieFlixGr/basicVersionMovies.json",
+      "Series": "https://med1altd.github.io/MovieFlixGr/basicVersionSeries.json",
+      "Kids": "https://med1altd.github.io/MovieFlixGr/basicVersionKids.json"
     }
   ]
 }
