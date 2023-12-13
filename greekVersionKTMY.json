@@ -1,4 +1,10 @@
 {
+    "Main": [
+    {
+      "Live": true,
+      "Video": ""
+    }
+  ],
   "Movies": [
     {
       "Title": "One Ranger",
