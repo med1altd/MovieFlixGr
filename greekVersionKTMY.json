@@ -1,8 +1,10 @@
 {
+{
     "Main": [
     {
-      "Live": true,
-      "Video": ""
+      "Live": false,
+      "Video": "https://www.mediafire.com/file_premium/fo9r3bgc5l2gzeb/%25CE%25A4%25CE%25B5%25CE%25BB%25CE%25B9%25CE%25BA%25CF%258C.mp4/file",
+        "Fetch": "MediaFire"
     }
   ],
   "Movies": [
