@@ -100,20 +100,44 @@
           ],
           "Movies": [
             {
-              "Url": "",
+              "Url": "https://med1altd.github.io/MovieFlixGr/greekVersionKTMY.json",
               "Category": 0
+            },
+            {
+              "Url": "https://med1altd.github.io/MovieFlixGr/greekVersionET.json",
+              "Category": 1
+            },
+            {
+              "Url": "https://med1altd.github.io/MovieFlixGr/greekVersionEPT.json",
+              "Category": 2
             }
           ],
           "Series": [
             {
-              "Url": "",
+              "Url": "https://med1altd.github.io/MovieFlixGr/greekVersionKSMY.json",
               "Category": 0
+            },
+            {
+              "Url": "https://med1altd.github.io/MovieFlixGr/greekVersionES.json",
+              "Category": 1
+            },
+            {
+              "Url": "https://med1altd.github.io/MovieFlixGr/greekVersionETS.json",
+              "Category": 2
             }
           ],
           "Kids": [
             {
-              "Url": "",
+              "Url": "https://med1altd.github.io/MovieFlixGr/greekVersionMPT.json",
               "Category": 0
+            },
+            {
+              "Url": "https://med1altd.github.io/MovieFlixGr/greekVersionMPS.json",
+              "Category": 1
+            },
+            {
+              "Url": "https://med1altd.github.io/MovieFlixGr/greekVersionPYK.json",
+              "Category": 2
             }
           ]
         }
