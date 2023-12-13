@@ -4,10 +4,8 @@
       "isLive": true,
       "isWorking": true,
       "isTest": false,
-      "isLiveMobile": true,
-      "MoreUrl": "https://i.ibb.co/DtDR2cp/More.jpg",
-      "isWorkingMobile": true,
-      "showAdsMobile": true,
+      "isLive": true,
+      "showAds": true,
       "isActivationRequired": true,
       "promote": false,
       "promoteTitle": "MovieFlix Update Available",
@@ -16,13 +14,15 @@
       "promoteUrl": "https://www.filmxy.vip/",
       "promoteNotes": "*Keep in mind that...",
       "promoteMessage": "",
-      "isLiveTV": true,
-      "isWorkingTV": true,
-      "showAdsTV": true,
       "Message": "ΝΕΑ ΕΝΗΜΕΡΩΣΗ ΔΙΑΘΕΣΙΜΗ: v4.8.1\nΠαρακαλούμε ενημερώστε την εφαρμογή μέσω του Google Play Store, προκειμένου να συνεχίσετε να απολαμβάνετε νέο υλικό!",
       "Version": "4.8.1",
       "minVersion": "0.1",
-      "maxVersion": "1.3"
+      "maxVersion": "1.3",
+      "contactEmail": "7keyzbeatz@gmail.com",
+      "PrivacyPolicyUrl": "https://google.com",
+      "DMCA": "https://facebook.com"
+      "MoreUrl": "https://i.ibb.co/DtDR2cp/More.jpg",
+      "NoImageUrl": "https://i.ibb.co/DtDR2cp/More.jpg",
     }
   ],
   "Access": [
