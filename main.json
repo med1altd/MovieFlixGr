@@ -44,20 +44,44 @@
       ],
       "Movies": [
         {
-          "Url": "https://med1altd.github.io/MovieFlixGr/basicVersionMovies.json",
+          "Url": "https://med1altd.github.io/MovieFlixGr/basicVersionKTMY.json",
           "Category": 0
+        },
+        {
+          "Url": "https://med1altd.github.io/MovieFlixGr/basicVersionET.json",
+          "Category": 1
+        },
+        {
+          "Url": "https://med1altd.github.io/MovieFlixGr/basicVersionEPT.json",
+          "Category": 2
         }
       ],
       "Series": [
         {
-          "Url": "https://med1altd.github.io/MovieFlixGr/basicVersionSeries.json",
+          "Url": "https://med1altd.github.io/MovieFlixGr/basicVersionKSMY.json",
           "Category": 0
+        },
+        {
+          "Url": "https://med1altd.github.io/MovieFlixGr/basicVersionES.json",
+          "Category": 1
+        },
+        {
+          "Url": "https://med1altd.github.io/MovieFlixGr/basicVersionETS.json",
+          "Category": 2
         }
       ],
       "Kids": [
         {
-          "Url": "https://med1altd.github.io/MovieFlixGr/basicVersionKids.json",
+          "Url": "https://med1altd.github.io/MovieFlixGr/basicVersionMPT.json",
           "Category": 0
+        },
+        {
+          "Url": "https://med1altd.github.io/MovieFlixGr/basicVersionMPS.json",
+          "Category": 1
+        },
+        {
+          "Url": "https://med1altd.github.io/MovieFlixGr/basicVersionPYK.json",
+          "Category": 2
         }
       ]
     }
