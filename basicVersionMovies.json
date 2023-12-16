@@ -1,4 +1,11 @@
 {
+        "Main": [
+    {
+      "Live": true,
+      "Video": "",
+        "Fetch": "MediaFire"
+    }
+  ],
   "Movies": [
     {
       "Title": "One Ranger",
