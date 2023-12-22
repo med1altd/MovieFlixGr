@@ -1,9 +1,9 @@
 {
-        "Main": [
+  "Main": [
     {
       "Live": true,
       "Video": "",
-        "Fetch": "MediaFire"
+      "Fetch": "MediaFire"
     }
   ],
   "Movies": [
@@ -73,25 +73,6 @@
       "Year": "2016",
       "Genre": "Κινούμενα Σχέδια, Περιπέτεια",
       "Duration": "1 ωρ. 48 λεπ.",
-      "isUnlocked": true,
-      "fetchVideo": true,
-      "beforeEnd": "5",
-      "Type": "media",
-      "StartString": "https://download",
-      "EndString": "\"",
-      "Start": 0,
-      "End": 0,
-      "Fetch": "MediaFire"
-    },
-    {
-      "Title": "Finding Nemo",
-      "ImageBack": "https://lumiere-a.akamaihd.net/v1/images/pp_findingnemo_herobannermobile_19752_7810e507.jpeg?region=0,0,640,480",
-      "ImageMain": "https://upload.wikimedia.org/wikipedia/en/2/29/Finding_Nemo.jpg",
-      "Video": "https://www.mediafire.com/file/0tszk1u1qhnyswp/video/file",
-      "Description": "Ο Μάρλιν και ο γιος του, ο Νέμο, δύο τροπικά ψαράκια, ζουν σε μια ασφαλή γειτονιά του ωκεανού. Κάποια μέρα, όμως, ο Νέμο ξεφεύγει από τον υπερπροστατευτικό πατέρα του και εξερευνά την απέραντη θάλασσα, καταλήγοντας… στο ενυδρείο ενός οδοντίατρου. Απελπισμένος ο Μάρλιν προσπαθεί να τον βρει, ξεκινώντας μια πραγματική οδύσσεια με δεκάδες εμπόδια και κινδύνους. Ευτυχώς γι αυτόν, στον δρόμο του θα γνωρίσει την Ντόρι, το πιο καλόκαρδο, αλλά και το πιο αφηρημένο ψάρι του πλανήτη, που θα τον πείσει ότι όλα γίνονται όπως εσύ τα θέλεις, αρκεί να το πιστεύεις πραγματικά.",
-      "Year": "2003",
-      "Genre": "Κινούμενα Σχέδια, Περιπέτεια",
-      "Duration": "1 ωρ. 40 λεπ.",
       "isUnlocked": true,
       "fetchVideo": true,
       "beforeEnd": "5",
