@@ -1,4 +1,10 @@
 {
-  "YouTube Channels": [
-  ]
+  "Main": [
+    {
+      "Live": true,
+      "Video": "",
+      "Fetch": "MediaFire"
+    }
+  ],
+  "YouTube Channels": []
 }
