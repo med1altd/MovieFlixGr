@@ -1,4 +1,13 @@
 {
+  "Main": [
+    {
+      "Live": true,
+      "Video": "https://www.mediafire.com/file_premium/fo9r3bgc5l2gzeb/%25CE%25A4%25CE%25B5%25CE%25BB%25CE%25B9%25CE%25BA%25CF%258C.mp4/file",
+      "Fetch": "MediaFire"
+    }
+  ],
+  "Series": [
+    {
       "Title": "Outer Banks",
       "ImageBack": "https://media-flix-gr.s3.amazonaws.com/cache/36/7c/367cc6fd5206d5c57187002650ca8cac.jpg",
       "ImageMain": "https://images.immediate.co.uk/production/volatile/sites/3/2023/02/OUTERBANKS301Unit12911RC-3622237.jpg?quality=90&resize=980,654",
@@ -188,3 +197,5 @@
         }
       ]
     }
+  ]
+}
