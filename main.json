@@ -5,6 +5,8 @@
       "isWorking": true,
       "isTest": false,
       "showAds": false,
+      "showBannerAds": true,
+      "showInterstitialAds": true,
       "TVSec": 2000,
       "MoviesInfoSec": 2000,
       "MoviesSec": 2000,
