@@ -31,7 +31,8 @@
       "NoImageUrl": "https://i.ibb.co/9yLBtnr/NO-IMAGE.png",
       "DMCAImageUrl": "https://i.ibb.co/6wdZZ5x/Untitled-3.png",
       "CodeExample": "greek_version_2020",
-      "MoreContentOption": false
+      "MoreContentOption": true, 
+      "AddContentFormUrl": "https://forms.gle/VBzgJBp2R8cTacsL8"
     }
   ],
   "Pre-Unlocked": [
