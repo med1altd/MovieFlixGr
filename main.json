@@ -11,7 +11,7 @@
       "VideoDelay": 25000,
       "MoviesInfoDelay": 30000,
       "SeriesInfoDelay": 40000,
-      "MaxDailyAdRequests" : 2,
+      "MaxDailyAdRequests" : 150,
       "isActivationRequired": true,
       "promote": false,
       "promoteTitle": "MovieFlix Update Available",
