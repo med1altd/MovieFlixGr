@@ -59,10 +59,10 @@
     {
       "isLive": true,
       "isWorking": true,
-      "isTest": true,
-      "showAds": false,
+      "isTest": false,
+      "showAds": true,
       "showBannerAds": false,
-      "showInterstitialAds": false,
+      "showInterstitialAds": true,
       "TVDelay": 60000,
       "VideoDelay": 60000,
       "MoviesInfoDelay": 60000,
