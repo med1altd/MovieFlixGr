@@ -1,12 +1,11 @@
 {
-    "Main": [
+  "Main": [
     {
       "Live": true,
       "Video": "",
-        "Fetch": "MediaFire"
+      "Fetch": "MediaFire"
     }
   ],
- {
   "Series": [
     {
       "Title": "Έτερος Εγώ",
