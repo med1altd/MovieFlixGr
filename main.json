@@ -37,7 +37,8 @@
       "CodeExample": "greek_version_2020",
       "MoreContentOption": false,
       "AddContentOption": true,
-      "AddContentFormUrl": "https://forms.gle/R1FP8YZ18fBLYNfb9"
+      "AddContentFormUrl": "https://forms.gle/R1FP8YZ18fBLYNfb9",
+      "checkForUpdates": true
     }
   ],
   "Pre-Unlocked": [
