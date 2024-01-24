@@ -59,7 +59,7 @@
   "StatusTV": [
     {
       "isLive": true,
-      "isWorking": false,
+      "isWorking": true,
       "isTest": false,
       "showAds": false,
       "showBannerAds": false,
