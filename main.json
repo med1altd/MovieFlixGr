@@ -220,6 +220,39 @@
       "Active": true
     }
   ],
+  "AccessTV": [
+    {
+      "Code": "greek_version_2023",
+      "Active": false,
+      "Valid": true,
+      "JSON_Urls": [
+        {
+          "TV": [
+            {
+              "Url": "https://med1altd.github.io/MovieFlixGr/greekVersionTV.json"
+            }
+          ],
+          "Movies": [
+            {
+              "Url": "https://med1altd.github.io/MovieFlixGr/greekVersionKTMY.json",
+              "Category": 0
+            }
+          ],
+          "Series": [
+            {
+              "Url": "https://med1altd.github.io/MovieFlixGr/greekVersionKSMY.json",
+              "Category": 0
+            }
+          ],
+          "Kids": [
+            {
+              "Url": "https://med1altd.github.io/MovieFlixGr/greekVersionMPT.json",
+              "Category": 0
+            }
+          ]
+        }
+      ]
+    }
   "Movies": [
     {
       "Title": "Ξένες Ταινίες \n (Με Ελληνικούς Υπότιτλους)",
