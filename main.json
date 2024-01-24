@@ -158,6 +158,33 @@
       ]
     }
   ],
+   "StandardTV": [
+    {
+      "TV": [
+        {
+          "Url": "https://med1altd.github.io/MovieFlixGr/basicVersionTV.json"
+        }
+      ],
+      "Movies": [
+        {
+          "Url": "https://med1altd.github.io/MovieFlixGr/basicVersionKTMY.json",
+          "Category": 0
+        }
+      ],
+      "Series": [
+        {
+          "Url": "https://med1altd.github.io/MovieFlixGr/basicVersionKSMY.json",
+          "Category": 0
+        }
+      ],
+      "Kids": [
+        {
+          "Url": "https://med1altd.github.io/MovieFlixGr/basicVersionMPT.json",
+          "Category": 0
+        }
+      ]
+    }
+  ],
   "Access": [
     {
       "Code": "greek_version_2023",
