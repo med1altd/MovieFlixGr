@@ -13,7 +13,7 @@
       "SeriesInfoDelay": 45000,
       "MaxDailyAdRequests": 100,
       "isActivationRequired": true,
-      "promote": true,
+      "promote": false,
       "promoteTitle": "Το νέο MovieFlix είναι διαθέσιμο!",
       "promoteImageUrl": "https://i.ibb.co/FYWX5w2/NEWAPP.png",
       "promoteButtonTitle": "ΕΓΚΑΤΑΣΤΑΣΗ",
